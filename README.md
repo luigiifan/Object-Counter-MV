@@ -28,7 +28,7 @@
 - Menyesuaikan kontras dengan histogram equalization yg mendistribusikan ulang intensitas piksel secara merata sehingga meningkatkan kontras gambar. Teknik ini digunakan karena dapat memperjelas objek yg sebelumnya tersembunyi dalam area gelap atau terang.
 
 ## Processing
-**Adaptive Thresholding**
+**I. Adaptive Thresholding**
 <br>
 ![image](https://github.com/user-attachments/assets/bc086d8d-889f-4715-9f11-13802fcdea0c)
 <br>
@@ -37,7 +37,7 @@
 - Metode ini menggunakan rata-rata berbobot **Gaussian** untuk menentukan ambang batas lokal pada setiap piksel.
 - Dilakukan inverting dari hasil thresholding dengan mengubah piksel dengan nilai 0 mejadi 255 dan nilai 255 menjadi 0 untuk meningkatkan visibilitas objek dalam citra.
 
-**Morphological Operation**
+**II. Morphological Operation**
 <br>
 ![image](https://github.com/user-attachments/assets/dad5d312-a3aa-4736-b1de-fb30adfff45e)
 <br>
