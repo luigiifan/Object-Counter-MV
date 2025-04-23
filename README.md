@@ -63,7 +63,8 @@
 - Mendapatkan posisi dan ukuran bounding box yang mengelilingi objek berdasarkan kontur dengan fungsi <code>cv.boundingRect</code>.</li>
 - Menggambar bounding box dan menambahkan teks untuk menunjukan nomor objek yang berada pada koordinat di atas bounding box.</li>
 
-## Visualization
+## Demo
+<p><img src="https://raw.githubusercontent.com/luigiifan/object-counter/master/demo.gif")</p>
 
 
 
