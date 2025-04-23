@@ -1,7 +1,7 @@
 # Praktikum Machine Vision: Menghitung Objek dan Segmentasi
 **Nama Kelompok:**
 1. Luigi Ifan Dwiutomo (0922040056)
-2. Moch. Baharudin Yusuf Habibie (0922040056)
+2. Moch. Baharudin Yusuf Habibie (0922040058)
 
 | Library   | Description                                           | Command |
 |-----------|-------------------------------------------------------|---------|
