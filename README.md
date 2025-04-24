@@ -1,7 +1,7 @@
 # Praktikum Machine Vision: Menghitung Objek dan Segmentasi
 **Nama Kelompok:**
 1. Luigi Ifan Dwiutomo (0922040056)
-2. Moch. Baharudin Yusuf Habibie (09220400)
+2. Moch. Baharudin Yusuf Habibie (0922040058)
 
 | Library   | Description                                           | Command |
 |-----------|-------------------------------------------------------|---------|
@@ -65,8 +65,6 @@
 
 ## Demo
 <p><img src="https://raw.githubusercontent.com/luigiifan/object-counter/master/demo.gif")</p>
-
-**Download RE (Release Executable)**: [lgiifn.engineer/object-counter](https://lgiifn.engineer/object-counter)
 
 
 
